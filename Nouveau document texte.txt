@@ -1,0 +1,7 @@
+connect to database:
+awel hja t'imporiti mongoss : const mongoose=require('mongoose')
+2 conx mongoose.connect('mongodb://127.0.0.1/ecomerce')
+3- module.export=mongoose
+
+req te5o mnhom lhjt lb3ththom lkol exmp f body ...
+res nest3mlouha k nhbo nrj3o res lil partie front bch t3lmo add saret b shi wia ..
